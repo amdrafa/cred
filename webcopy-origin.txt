@@ -1,0 +1,231 @@
+Uri: https://cdn.utmify.com.br/scripts/pixel/pixel.js
+File Name: C:\Downloaded Web Sites\crefisa.digital\scripts\pixel\pixel-4.js
+Content Type: text/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\crefisa.digital\scripts\utms\latest-5.js
+Content Type: text/javascript
+
+Uri: https://crefisa.digital/upsel-ativa
+File Name: C:\Downloaded Web Sites\crefisa.digital\upsel-ativa.html
+Content Type: text/html
+
+Uri: https://images.converteai.net/63c1cd06-0aba-44f3-920f-3a36fb72597a/players/66d92a52640aa3000bef6e39/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\crefisa.digital\63c1cd06-0aba-44f3-920f-3a36fb72597a\players\66d92a52640aa3000bef6e39\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://upload.wikimedia.org/wikipedia/pt/a/a3/Crefisa.png
+File Name: C:\Downloaded Web Sites\crefisa.digital\wikipedia\pt\a\a3\Crefisa-17.png
+Content Type: image/png
+
+Uri: https://veritaz.com.br/wp-content/uploads/2017/09/Banco_Central_do_Brasil_logo-1.png
+File Name: C:\Downloaded Web Sites\crefisa.digital\wp-content\uploads\2017\09\Banco_Central_do_Brasil_logo-1.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1044109920185725&ev=Purchase&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-48
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1416081155754349&ev=Purchase&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-50
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=478917228479685&ev=Purchase&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-49
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=708516871467857&ev=Purchase&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-51
+Content Type: text/plain
+
+2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110%2C196%2C195%2C197%2C202%2C203%2C204%2C200%2C192%2C128%2C159%2C191%2C193%2C119%2C153%2C141%2C147%2C185%2C186%2C125%2C228%2C113%2C124%2C229%2C161%2C116%2C231%2C162%2C132%2C120%2C150%2C144
+File Name: C:\Downloaded Web Sites\crefisa.digital\signals\config\1763225554485563-1
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/378830935268765?v=2.9.167&r=stable&domain=unipay-br.org&hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110%2C196%2C195%2C197%2C202%2C203%2C204%2C200%2C192%2C128%2C159%2C191%2C193%2C119%2C153%2C141%2C147%2C185%2C186%2C125%2C228%2C113%2C124%2C229%2C161%2C116%2C231%2C162%2C132%2C120%2C150%2C144
+File Name: C:\Downloaded Web Sites\crefisa.digital\signals\config\378830935268765-1
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/485377260925980?v=2.9.167&r=stable&domain=unipay-br.org&hme=da9a399065fb1c492026018b9e54864148adfb49d800f41752428fb7b59190f8&ex_m=69%2C118%2C104%2C108%2C60%2C4%2C97%2C68%2C16%2C94%2C86%2C50%2C53%2C168%2C171%2C183%2C179%2C180%2C182%2C29%2C98%2C52%2C75%2C181%2C163%2C166%2C176%2C177%2C184%2C127%2C40%2C34%2C139%2C15%2C49%2C190%2C189%2C129%2C18%2C39%2C1%2C42%2C64%2C65%2C66%2C70%2C90%2C17%2C14%2C93%2C89%2C88%2C105%2C51%2C107%2C38%2C106%2C30%2C91%2C26%2C164%2C167%2C136%2C28%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C56%2C61%2C63%2C73%2C99%2C27%2C74%2C9%2C8%2C78%2C47%2C21%2C101%2C100%2C102%2C95%2C10%2C20%2C3%2C19%2C83%2C55%2C81%2C33%2C72%2C0%2C92%2C32%2C80%2C85%2C46%2C45%2C84%2C37%2C5%2C87%2C79%2C43%2C35%2C82%2C2%2C36%2C62%2C41%2C103%2C44%2C77%2C67%2C109%2C59%2C58%2C31%2C96%2C57%2C54%2C48%2C76%2C71%2C24%2C110%2C196%2C195%2C197%2C202%2C203%2C204%2C200%2C192%2C128%2C159%2C191%2C193%2C119%2C153%2C141%2C147%2C185%2C186%2C125%2C228%2C113%2C124%2C229%2C161%2C116%2C231%2C162%2C132%2C120%2C150%2C144
+File Name: C:\Downloaded Web Sites\crefisa.digital\signals\config\485377260925980-1
+Content Type: application/x-javascript
+
+Uri: https://crefisa.digital/type-pac
+File Name: C:\Downloaded Web Sites\crefisa.digital\type-pac.html
+Content Type: text/html
+
+Uri: https://upload.wikimedia.org/wikipedia/pt/a/a3/Crefisa.png
+File Name: C:\Downloaded Web Sites\crefisa.digital\wikipedia\pt\a\a3\Crefisa-12.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1044109920185725&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-33
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1416081155754349&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-34
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=478917228479685&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-35
+Content Type: text/plain
+
+ontent Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bitter/v36/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\bitter\v36\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v27/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\cabin\v27\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhW.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\crimsontext\v19\wlp2gwHKFkZgtmSR3NB0oRJfbwhW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\droidsans\v18\SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\droidserif\v19\tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6u8w4BMUTPHh30AUi-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6u9w4BMUTPHh50XSwaPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6u9w4BMUTPHh6UVSwaPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6u9w4BMUTPHh7USSwaPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lato\v24\S6uyw4BMUTPHjxAwWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lobster/v30/neILzCirqoswsqX9zoKmNg.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\lobster\v30\neILzCirqoswsqX9zoKmNg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v20/MwQubh3o1vLImiwAVvYawgcf2eVeqlq9.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\oldstandardtt\v20\MwQubh3o1vLImiwAVvYawgcf2eVeqlq9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\crefisa.digital\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16492214778/?random=1725545239906&cv=11&fst=1725545239906&bg=ffffff&guid=ON&async=1&gtm=45be4930v9181676663za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=0&u_w=1440&u_h=900&url=https:%2F%2Fnsadasdn.fr%2Fnu%2F2%2F%3Futm_source%3DorganicjLj66d8ae7d936793ee8d69b4cc%26utm_campaign%3DrKm-km-rKm%26utm_medium%3D%26utm_content%3D%26utm_term%3D%26subid%3DorganicjLj66d8ae7d936793ee8d69b4cc%26sid2%3DrKm-km-rKm%26subid2%3DrKm-km-rKm%26subid3%3D%26subid4%3D%26subid5%3DrKm-km-rKm%26xcod%3DorganicjLj66d8ae7d936793ee8d69b4cchQwK21wXxRrKm-km-rKmhQwK21wXxRhQwK21wXxRhQwK21wXxR%26sck%3DorganicjLj66d8ae7d936793ee8d69b4cchQwK21wXxRrKm-km-rKmhQwK21wXxRhQwK21wXxRhQwK21wXxR&ref=https:%2F%2Fnsadasdn.fr%2Fnu%2F1%2F&hn=www.googleadservices.com&frm=0&tiba=Nu&npa=0&pscdl=noapi&auid=77449927.1725476476&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0|Chromium%3B120.0.6099.71|Google%2520Chrome%3B120.0.6099.71&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fdr=QA&data=event%3Dgtag.config&rfmt=3&fmt=4
+File Name: C:\Downloaded Web Sites\crefisa.digital\pagead\viewthroughconversion\16492214778\f.txt
+Content Type: text/javascript
+
+Uri: https://images.converteai.net/63c1cd06-0aba-44f3-920f-3a36fb72597a/players/66d9b864f605a6000b9f6afa/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\crefisa.digital\63c1cd06-0aba-44f3-920f-3a36fb72597a\players\66d9b864f605a6000b9f6afa\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://pubads.g.doubleclick.net/activity;dc_iu=/95377733/DFPAudiencePixel;ord=2144545107284.4924;dc_seg=773676993?
+File Name: C:\Downloaded Web Sites\crefisa.digital\activity;dc_iu=\95377733\DFPAudiencePixel;ord=2144545107284.4924;dc_seg=773676993
+Content Type: image/gif
+
+Uri: https://pubads.g.doubleclick.net/activity;xsp=4449400;ord=1;num=2686729342705.7827?
+File Name: C:\Downloaded Web Sites\crefisa.digital\activity;xsp=4449400;ord=1;num=2686729342705.7827
+Content Type: image/gif
+
+Uri: https://script.hotjar.com/modules.8da33a8f469c3b5ffcec.js
+File Name: C:\Downloaded Web Sites\crefisa.digital\modules.8da33a8f469c3b5ffcec.js
+Content Type: application/javascript
+
+Uri: https://static.hotjar.com/c/hotjar-3860511.js?sv=7
+File Name: C:\Downloaded Web Sites\crefisa.digital\c\hotjar-3860511.js
+Content Type: application/javascript
+
+Uri: https://upload.wikimedia.org/wikipedia/pt/a/a3/Crefisa.png
+File Name: C:\Downloaded Web Sites\crefisa.digital\wikipedia\pt\a\a3\Crefisa.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=954697876412273&ev=PageView
+&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=954697876412273&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\crefisa.digital\tr-1
+Content Type: text/plain
+
+Uri: https://www.googleadservices.com/pagead/conversion/869705871/?random=1725561483242&cv=11&fst=1725561483242&bg=ffffff&guid=ON&async=1&gtm=45be4930h1v9116250370z878242679za201zb78242679&gcd=13l3l3l3l1l1&dma=0&tag_exp=0&u_w=1440&u_h=900&url=https:%2F%2Fwww.crefisa.com.br%2F&ref=https:%2F%2Fwww.google.com%2F&label=UnXNCOy7y9gBEI_R2p4D&hn=www.googleadservices.com&frm=0&tiba=Crefisa%2C Empréstimo para Negativado.&value=0&bttype=purchase&npa=0&pscdl=noapi&auid=1249755043.1725410883&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B8.0.0.0|Chromium%3B120.0.6099.71|Google%2520Chrome%3B120.0.6099.71&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fdr=QA&rfmt=3&fmt=4
+File Name: C:\Downloaded Web Sites\crefisa.digital\pagead\conversion\869705871\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/destination?id=AW-869705871&l=dataLayer&cx=c
+File Name: C:\Downloaded Web Sites\crefisa.digital\gtag\destination
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5GZDB67PCM
+File Name: C:\Downloaded Web Sites\crefisa.digital\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5GZDB67PCM&l=dataLayer&cx=c
+File Name: C:\Downloaded Web Sites\crefisa.digital\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-KJZ21TTG45&l=dataLayer&cx=c
+File Name: C:\Downloaded Web Sites\crefisa.digital\gtag\js-2
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-M2C6H8Q
+File Name: C:\Downloaded Web Sites\crefisa.digital\gtm.js
+Content Type: application/javascript
+

